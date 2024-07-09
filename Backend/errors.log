@@ -1,0 +1,375 @@
+Time: Tue Jul 09 2024 21:35:04 GMT+0300 (Israel Daylight Time)
+Message: Route /furniture not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue Jul 09 2024 21:35:04 GMT+0300 (Israel Daylight Time)
+Message: Route /favicon.ico not found.
+Stack: undefined
+---------------------------------------
+
+Time: Tue Jul 09 2024 21:35:24 GMT+0300 (Israel Daylight Time)
+Message: Table 'giftshop.furniture' doesn't exist
+Stack: Error: Table 'giftshop.furniture' doesn't exist
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Jul 09 2024 21:37:01 GMT+0300 (Israel Daylight Time)
+Message: Table 'giftshop.furniture' doesn't exist
+Stack: Error: Table 'giftshop.furniture' doesn't exist
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Jul 09 2024 21:37:07 GMT+0300 (Israel Daylight Time)
+Message: Table 'giftshop.furniture' doesn't exist
+Stack: Error: Table 'giftshop.furniture' doesn't exist
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Jul 09 2024 23:29:35 GMT+0300 (Israel Daylight Time)
+Message: Table 'furniturestore.furniture_types' doesn't exist
+Stack: Error: Table 'furniturestore.furniture_types' doesn't exist
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Jul 09 2024 23:30:16 GMT+0300 (Israel Daylight Time)
+Message: Table 'furniturestore.furnituretypes' doesn't exist
+Stack: Error: Table 'furniturestore.furnituretypes' doesn't exist
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Jul 09 2024 23:31:10 GMT+0300 (Israel Daylight Time)
+Message: Unknown column 'furniture.type_id' in 'on clause'
+Stack: Error: Unknown column 'furniture.type_id' in 'on clause'
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Jul 09 2024 23:33:27 GMT+0300 (Israel Daylight Time)
+Message: Unknown column 'furniture.type' in 'on clause'
+Stack: Error: Unknown column 'furniture.type' in 'on clause'
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Jul 09 2024 23:35:34 GMT+0300 (Israel Daylight Time)
+Message: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type = furnituretype.id' at line 12
+Stack: Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type = furnituretype.id' at line 12
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Tue Jul 09 2024 23:52:36 GMT+0300 (Israel Daylight Time)
+Message: Route /api/types not found.
+Stack: undefined
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:15:32 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Bed' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Bed' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:15:41 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Bed' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Bed' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:18:09 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Bed' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Bed' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:20:22 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Table' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Table' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:20:29 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Table' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Table' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:24:41 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Table' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Table' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:26:00 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Table' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Table' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:28:30 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Closet' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Closet' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:30:19 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Closet' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Closet' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:34:46 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: '' for column 'type' at row 1
+Stack: Error: Incorrect integer value: '' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:37:44 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Table' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Table' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 00:38:17 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Table' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Table' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 01:18:12 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Table' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Table' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 01:38:22 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Couch' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Couch' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 01:39:39 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'Couch' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'Couch' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
+Time: Wed Jul 10 2024 01:40:53 GMT+0300 (Israel Daylight Time)
+Message: Incorrect integer value: 'table' for column 'type' at row 1
+Stack: Error: Incorrect integer value: 'table' for column 'type' at row 1
+    at Packet.asError (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packets\packet.js:728:17)
+    at Query.execute (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\commands\command.js:29:26)
+    at PoolConnection.handlePacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:481:34)
+    at PacketParser.onPacket (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:97:12)
+    at PacketParser.executeStart (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\packet_parser.js:75:16)
+    at Socket.<anonymous> (C:\Users\nexus\Desktop\jb\ikea store-fullstack\Backend\node_modules\mysql2\lib\connection.js:104:25)
+    at Socket.emit (node:events:518:28)
+    at Socket.emit (node:domain:488:12)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+---------------------------------------
+
